@@ -1,0 +1,24 @@
+{
+	'Skill_1':'SDLC, STLC',
+	'Slill_2':'Client server architecture',
+	'Skill_3':'HTTP requests,response,codes',
+	'Skill_3':'JSON, XML',
+	'Skill_4':'Test API - Postman',
+	'Skill_5':'JS',
+	'Skill_6':'Getting loghs from server',
+	'Skill_7':'Sniffing http web server traffic via Charles and Fiddler',
+	'Skill_8':'Dev tools',
+	'Skill_9':'VPN',
+	'Skill_10':'Mobile test iOs,Android',
+	'Skill_11':'Xcode',
+	'Skill_12':'Android Studio',
+	'Skill_13':'Terminal Linux',
+	'Skill_14':'Access to remote servers',
+	'Skill_15':'SQL Basic',
+	'Skill_16':'Database Postgres',
+	'Skill_17':'Non relation Redis',
+	'Skill_18':'Load test Jmeter',
+	'Skill_19':'Scrum development methodology',
+	'Skill_20':'Pyton basic'
+
+}
