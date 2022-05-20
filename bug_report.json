@@ -1,1 +1,12 @@
-
+{
+  'id':'123',
+  'Title':'Link doest work',
+  'Severity':'High',
+  'Priority':'Middle',
+  'Issue type':'Functional',
+  'Steps':'1.open site, 2.Scroll down, 3.Try click link',
+  'Expected result':'Going to the link page',
+  'Actual result':'Link doest work',
+  'Additional info':'',
+  
+}
